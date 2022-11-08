@@ -1,7 +1,15 @@
-.contact-form {
-    font-size: 55px;
+*{
+    padding: 0px;
+    margin: 0px;
 }
-
-.contact-form__h2 {
-    font-size: 5em;
+.contact-form {
+    font-size: px;
+    background-color: blanchedalmond;
+    width: 100vw;
+    height: 50vw;
+}
+.contact-form__h2{
+    font-size: 2em;
+    font-family: sans-serif;
+    color: blueviolet;
 }
