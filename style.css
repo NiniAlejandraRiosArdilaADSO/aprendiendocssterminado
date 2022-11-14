@@ -20,12 +20,16 @@
  .caja2{
     background: violet;
     position: absolute;
-    top: 300px;
+    top: 40px;
+    left: 20px;
+    
  }
 
  .caja3{
     background: orange;
-    top: 20px;
+    position: relative;
+    top: 50px;
+    left: 30px;
  }
 
  .caja4{
