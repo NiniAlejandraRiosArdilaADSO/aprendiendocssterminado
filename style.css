@@ -4,19 +4,30 @@
     font-size: 30px;
 
 }
+ div{
+    width: 120px;
+    height: 120px;
+    display: block;
 
-.caja1 {
-    width: 200px;
-    height: 200px;
+    
+ }
+
+ .caja1{
     background: red;
-    margin: auto;
-    outline:20px  solid blue;
-    box-sizing: content-box;
-}
 
-.caja2 {
-    width: 200px;
-    height: 200px;
+ }
+
+ .caja2{
     background: violet;
-    margin: auto;
-}
+    position: absolute;
+    top: 300px;
+ }
+
+ .caja3{
+    background: orange;
+    top: 20px;
+ }
+
+ .caja4{
+    background: green;
+ }
