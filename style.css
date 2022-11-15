@@ -1,37 +1,39 @@
 *{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-weight: 100;
-    font-size: 30px;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-weight: 100;
+   font-size: 30px;
 
 }
- div{
-    width: 120px;
-    height: 120px;
-    display: block;
+div{
+   width: 120px;
+   height: 120px;
+   display: block;
+   background: #444;
 
-    
- }
 
- .caja1{
-    background: red;
+}
 
- }
+.caja1{
 
- .caja2{
-    background: violet;
-    position: absolute;
-    top: 40px;
-    left: 20px;
-    
- }
+}
 
- .caja3{
-    background: orange;
-    position: relative;
-    top: 50px;
-    left: 30px;
- }
+.caja2{
+   right: 0;
 
- .caja4{
-    background: green;
- }
+
+}
+
+.caja3{
+   right: 0;
+   bottom: 0;
+}
+
+.caja4{
+   bottom: 0;
+}
+
+.caja5{
+   bottom: 0;
+   left: 0;
+   
+}
