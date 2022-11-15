@@ -6,5 +6,7 @@
 
 .caja-fixed{
    background: violet;
-   position: fixed;
+   position: sticky;
+   opacity: .50;
+   
 }
