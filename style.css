@@ -4,15 +4,13 @@
    font-size: 20px;
 } 
 
-.caja1{
-   height: 200px;
-   width: 200px;
-   background: slateblue;
-   transition: background 1s, height 1s, width 1s;
+.caja  {
+   background: red;
+   margin: 25px;
+   transition: all 1s;
+
 }
 
-.caja1:hover{
-   background: red;
-   height: 300px;
-   width: 300px;
+.caja:focus {
+   background: rgb(73, 70, 255);
 }
