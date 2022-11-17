@@ -16,4 +16,5 @@
    height: 100%;
    border: 2px solid orchid;
    object-fit: cover;
+   object-position: left;
 }
